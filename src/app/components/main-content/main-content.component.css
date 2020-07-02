@@ -1,0 +1,30 @@
+.job-details-card{
+    background-color: white;
+    padding: 10px 10px 10px 30px;
+    margin-bottom: 10px;
+}
+
+.details-btn{
+    background-color: rgb(43, 61, 139);
+    color: white;
+    padding: 30x;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+    outline: none;
+}
+
+.details-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.expand-btn{
+    background-color: rgb(22, 44, 78);
+    color: white;
+    padding: 30x;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    margin: 0 auto;
+}
